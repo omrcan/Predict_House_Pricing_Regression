@@ -1,0 +1,2 @@
+# Predict_House_Pricing_Regression
+ A regression analysis is being conducted to predict home sale prices using a dataset containing various house features. In this analysis, different house characteristics are used as independent variables to predict the dependent variable, which is the sale price. As a result, this regression model provides valuable predictions that can be used to develop effective pricing strategies in the real estate market.
